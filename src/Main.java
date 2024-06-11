@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    private static final String API_KEY = "40ad2ab70425b97a3dc8cfed";
+    private static final String API_KEY = "sua-apikey-aqui";
 
     public static void main(String[] args) {
 
